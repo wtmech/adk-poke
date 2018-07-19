@@ -1,0 +1,2 @@
+export const SET_TITLE = 'SET_TITLE'
+export const CHANGE_SEARCH_FIELD = 'CHANGE_SEARCH_FIELD'
